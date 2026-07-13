@@ -1,0 +1,18 @@
+# Vivado generated files
+*.jou
+*.log
+*.pb
+*.str
+*.wdb
+*.vdi
+*.rpt
+*.exe
+
+# Vivado folders
+Sobel_Edge_Detector/Sobel_Edge_Detector.cache/
+Sobel_Edge_Detector/Sobel_Edge_Detector.hw/
+Sobel_Edge_Detector/Sobel_Edge_Detector.ip_user_files/
+Sobel_Edge_Detector/Sobel_Edge_Detector.runs/
+Sobel_Edge_Detector/Sobel_Edge_Detector.sim/
+
+xsim.dir/
