@@ -1,7 +1,0 @@
-Running: xsim.dir/tb_pixel_reader_behav/xsimk.exe -simmode gui -wdb tb_pixel_reader_behav.wdb -simrunnum 0 -socket 51936
-Design successfully loaded
-Design Loading Memory Usage: 11140 KB (Peak: 11140 KB)
-Design Loading CPU Usage: 31 ms
-Simulation completed
-Simulation Memory Usage: 12600 KB (Peak: 12600 KB)
-Simulation CPU Usage: 140 ms
